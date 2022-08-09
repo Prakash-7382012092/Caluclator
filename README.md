@@ -1,4 +1,4 @@
-# caluclatoe
+# caluclator
 
 A new Flutter project.
 
